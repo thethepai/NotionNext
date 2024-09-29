@@ -21,7 +21,7 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '分享编程',
   HEO_HERO_TITLE_2: '与思维认知',
   HEO_HERO_TITLE_3: 'JACKPAI.COM',
-  HEO_HERO_TITLE_4: '希望你在这里获得快乐和创意',
+  HEO_HERO_TITLE_4: '希望你在这里收获技术和创意',
   HEO_HERO_TITLE_5: '欢迎你的到来',
   HEO_HERO_TITLE_LINK: 'https://www.jackpai.life/',
 
